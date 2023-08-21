@@ -9,4 +9,11 @@ table {
 	border-collapse: collapse;
 	width: 600px;
 	margin: 100px auto;
+	text-align: center;
+}
+
+.h {
+	position: absolute;
+	top: -99999px;
+	opacity: 0;
 }
